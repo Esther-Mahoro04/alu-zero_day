@@ -1,1 +1,1 @@
-README for the git repository
+README for git repository
